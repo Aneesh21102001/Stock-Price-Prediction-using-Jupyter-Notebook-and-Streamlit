@@ -5,7 +5,4 @@ The results are based on the dataset downloaded from the following website
 https://finance.yahoo.com/
 
 The user should install the following libraries:
-numpy
-pandas
-matplotlib.pyplot
-pandas_datareader
+numpy, pandas, matplotlib.pyplot, pandas_datareader
